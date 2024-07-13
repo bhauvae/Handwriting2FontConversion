@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2024-7-13: Created with FontForge (http://fontforge.org)
+-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20230101 at Sat Jul 13 18:49:12 2024
+ By Bhavya
+Copyright (c) 2024, Bhavya
+</metadata>
+<defs>
+<font id="Example-Regular" horiz-adv-x="175" >
+  <font-face 
+    font-family="Example"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="128"
+    panose-1="2 0 5 9 0 0 0 0 0 0"
+    ascent="96"
+    descent="-32"
+    bbox="0 0 0 0"
+    underline-thickness="50"
+    underline-position="-100"
+    unicode-range="U+003F-003F"
+  />
+    <missing-glyph />
+    <glyph glyph-name="question" unicode="?" 
+ />
+  </font>
+</defs></svg>
