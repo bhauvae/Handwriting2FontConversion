@@ -11,7 +11,7 @@
   , "fullname": "Example Regular"
   }
 , "glyphs":
-  { "0x3f": { "src": "question.svg", "width": 175 }
+  { "0x3f": { "src": "a.png-potrace.svg" }
   
   }
 , "sfnt_names":
